@@ -2,7 +2,7 @@
 
 ## Aim  
 To design and simulate a Verilog HDL seven-segment display driver that converts a 4-bit binary input into the corresponding digits 0–9.
-
+ 
 ## Apparatus Required  
 - **Vivado 2023.1**
 - **Spartan 7 FPGA**  
